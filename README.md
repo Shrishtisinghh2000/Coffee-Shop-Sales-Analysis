@@ -7,6 +7,12 @@ This project is a Coffee Sales Analysis that provides insights into coffee shop 
 Tools Used: MS Excel, MySQL, Power BI
 
 [Dataset Used](https://www.kaggle.com/code/ahmedabbas757/coffee-shop-sales/notebook)
+
+[SQL CODE](https://github.com/Shrishtisinghh2000/Coffee-Shop-Sales-Analysis/blob/main/Coffee_Shop_Sales.sql)
+
+[Dashboard](https://github.com/Shrishtisinghh2000/Coffee-Shop-Sales-Analysis/blob/main/Coffee_Sales_Dashboard.pbix)
+
+
 Objectives
 Sales Analysis: Understand overall sales performance and identify trends over time.
 Product Insights: Determine which products are top-sellers and analyze product performance.
